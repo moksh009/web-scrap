@@ -1,0 +1,8 @@
+# Add your website URLs here, one per line
+# You can include URLs with or without http:// or https://
+# Examples:
+example.com
+business-website.org
+company-site.net
+
+# Remove the examples above and add your actual websites below:
